@@ -1,26 +1,26 @@
 # Crypto Berliner Viewer
 
-<center><img src="./public/favicon.ico" alt="german flag"></center>
+<p align="center"><img src="./public/favicon.ico" alt="german flag"></p>
 
 ## Introduction
 
 This is a site, bootstrapped with [NextJS](https://nextjs.org) and [deployed](https://crypto-berliner-viewer.vercel.app/) via [Vercel](https://vercel.com/)
 
-It provides user friendly input for finding your Crypto Berliner on Artblocks 
+It provides user friendly input for finding your Crypto Berliner on Artblocks
 
-## Getting Started (developer)
+## Getting Started
 
 Clone this repository
 
 Install dependencies
 
-```
+```bash
 yarn
 ```
 
 OR
 
-```
+```bash
 npm install
 ```
 
